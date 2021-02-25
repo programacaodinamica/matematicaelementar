@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Matemática Elementar para Computação
 
-You can use the [editor on GitHub](https://github.com/programacaodinamica/matematicaelementar/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Aulas AO VIVO toda sexta-feira às 18:00h no canal Programação Dinâmica ([@pgdinamica](https://twitch.tv/pgdinamica)) na Twitch!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O medo da matemática impõe limitações ao seu crescimento profissional e consequências graves para o país. Vamos continuar produzindo software de baixa complexidade e importando alta tecnologia?
 
-### Markdown
+A matemática é base para todas as aplicações complexas e incríveis que vislumbramos com computadores, tais como ciência de dados, jogos digitais, visão computacional, segurança da informação, dentre outras. Precisamos de mais profissionais capacitados a compreender o mundo de uma maneira mais profunda e conseguir entregar soluções para problemas complexos. Precisamos que você transforme a matemática em uma ferramenta, não um empecilho, e evolua suas capacidades profissionais!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Algumas áreas da computação como Inteligência Artificial, por exemplo, requerem conhecimentos matemáticos mais avançados como Cálculo, Álgebra Linear e Estatística. Com medo da matemática, muita gente desiste logo de cara; outros até tentam, mas têm uma enorme dificuldade de prosseguir, porque não têm base. Assim, há uma parcela significativa de profissionais limitados, que com esforço se tornaram capazes de usar soluções prontas e copiar trechos de código na internet, mas têm dificuldades em compreender o que estão fazendo e criar soluções para problemas mais complexos.
 
-```markdown
-Syntax highlighted code block
+Com a minha experiência em matemática, computação e ensino, acredito que construindo um conhecimento de base adequado, você pode adquirir autonomia para aprofundar seus estudos. Assim, proponho que você busque 3 coisas:
 
-# Header 1
-## Header 2
-### Header 3
+* Estudar os fundamentos da matemática
+* Conhecer como algumas áreas da computação utilizam matemática
+* Perceber como a base matemática se relaciona com conhecimentos mais avançados
 
-- Bulleted
-- List
+Para ajudar a disseminar este conhecimento, decidi criar um projeto novo chamado Matemática Elementar para Computação. Semanalmente, teremos uma transmissão ao vivo na Twitch no canal pgdinamica com uma aula de matemática. Além da matemática em si, serão apresentados problemas na computação que aplicam e motivam esses conceitos. A duração pode variar entre 40 e 90 minutos a depender do tema e das interações.
 
-1. Numbered
-2. List
+Uma inspiração para este projeto é a série Fundamentos de Matemática Elementar do autor Gelson Iezzi e colaboradores. Assim, pretendemos estudar conjuntos, funções, trigonometria, sequências, matrizes, sistemas lineares, combinatória, probabilidade e geometria analítica. Desta forma, cobriremos tópicos importantes ao nível de um “ensino médio de excelência”, base do que permitiu a mim e à Kizzy ingressarmos no Instituto Militar de Engenharia.
 
-**Bold** and _Italic_ and `Code` text
+-------
+Se você acha este trabalho relevante e tem condições, considere apoiar o nosso canal como membro e tenha acesso às gravações das aulas ao vivo nas categorias ESPRESSO e CAPUCCINO.
 
-[Link](url) and ![Image](src)
-```
+Se você não tem como contribuir financeiramente no momento, não tem problema, venha aprender conosco ao vivo na Twitch e nos ajude a espalhar esta mensagem para mais pessoas interagindo com nossos conteúdos!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/programacaodinamica/matematicaelementar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
