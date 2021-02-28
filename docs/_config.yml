@@ -1,1 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
+ga_tracking: G-3LERNTZ0EC
+# Aux links for the upper right navigation
+aux_links:
+  "Programação Dinâmica no Youtube":
+    - "//youtube.com/programacaodinamica"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
