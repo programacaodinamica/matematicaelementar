@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Matemática Elementar para Computação
+title: Sobre o Projeto
 nav_order: 0
 ---
 
