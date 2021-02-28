@@ -81,9 +81,11 @@ md"# Hexadecimal (base 16)
 "
 
 # ╔═╡ 99d38ea2-793c-11eb-0602-fdee67148396
-Binario: 00011101
-Hexadecimal:
-Decimal: 29
+md"""
+* Binario: 00011101
+* Hexadecimal: 1D
+* Decimal: 29
+"""
 
 # ╔═╡ 86b86e18-793d-11eb-0c2e-4f0923ae1693
 # na própria base decimal
@@ -92,20 +94,23 @@ begin
 end
 
 # ╔═╡ b60bfb34-793e-11eb-25ac-73bde99a491e
-md"
-
-Convertendo 00011101 de binário para decimal
+md" ## Convertendo 00011101 de binário para decimal
 
 $$1*2^0 + 0*2^1 + 1*2^2 + 1*2^3 + 1*2^4 = 29$$
 
 em decimal = 29 "
 
 # ╔═╡ 587150f8-7940-11eb-2eb0-4985231cd253
-md"Convertendo de decimal para outra base
+md"## Convertendo de decimal para outra base
 
+Primeiro, dividimos o número na base 10 pela base desejada; em seguida dividimos o quociente desta primeira divisão novamente pela base desejada. Enquanto o quociente for maior ou igual à base, realizamos novas divisões. 
 
+Quando não for mais possível dividir o quociente pela base, podemos escrever o número na nova base tomando como algarismos o último quociente e todos os restos de trás para frente: **o último quociente será o primeiro algarismo e primeiro resto será o último algarismo.**
 "
 
+
+# ╔═╡ b94b9d5e-79d9-11eb-36ff-33d0377a17bc
+img = load("img/binario38.png")
 
 # ╔═╡ ac89dace-7941-11eb-3574-9bb44aa8ad34
 # converter de outra base para decimal
@@ -178,10 +183,11 @@ end
 # ╟─1a5ab68a-793b-11eb-2fc6-a92bf7862d2c
 # ╟─92736cbe-793b-11eb-3402-fd8ab89685a7
 # ╟─581ed692-793c-11eb-2975-81e9b10fbcb7
-# ╠═99d38ea2-793c-11eb-0602-fdee67148396
+# ╟─99d38ea2-793c-11eb-0602-fdee67148396
 # ╠═86b86e18-793d-11eb-0c2e-4f0923ae1693
 # ╟─b60bfb34-793e-11eb-25ac-73bde99a491e
-# ╠═587150f8-7940-11eb-2eb0-4985231cd253
+# ╟─587150f8-7940-11eb-2eb0-4985231cd253
+# ╟─b94b9d5e-79d9-11eb-36ff-33d0377a17bc
 # ╠═ac89dace-7941-11eb-3574-9bb44aa8ad34
 # ╠═b0bb27d2-7942-11eb-1519-31214b0bf9e3
 # ╠═a6f04d16-7944-11eb-3fb4-5126028ec991

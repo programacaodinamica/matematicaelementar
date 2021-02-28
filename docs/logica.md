@@ -1,24 +1,20 @@
 ---
 layout: default
-title: Operações Fundamentais
-parent: Aritmética
+title: Noções de Lógica
 nav_order: 1
 ---
 
 ## Conteúdo
 
-1.  Números naturais
-2.  Adição
-3.  Subtração
-4.  Multiplicação
-5.  Divisão
-6.  Sucessor
-7.  Antecessor
-8.  Multiplos
-9.  Divisores
+1. O que é uma proposição?
+2. Conectivo E
+3. Tabela verdade
+4. Conectivo OU
+5. Negação de proposições
+6. Aplicações na programação: controle de fluxo
+7. Condições "se então"; "se e somente se"
 
-
-### Acesse o *notebook* da aula <a href="/mec001_aritmetica_naturais.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/mec002_basesnumericas.html" target="_black">neste link</a>
 
 
 ## Vídeo da aula
