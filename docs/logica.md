@@ -14,7 +14,7 @@ nav_order: 1
 6. Aplicações na programação: controle de fluxo
 7. Condições "se então"; "se e somente se"
 
-### Acesse o *notebook* da aula <a href="/mec002_basesnumericas.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec000_nocoesdelogica.html" target="_black">neste link</a>
 
 
 ## Vídeo da aula
