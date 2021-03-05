@@ -7,15 +7,21 @@ nav_order: 3
 
 ## Conteúdo 
 
-**– Aula ocorrerá em 05/03/2021**
+1. Fatores de uma multiplicação
+2. Revisão sobre divisores
+3. O que é um número primo
+4. Como determinar se um número é primo
+5. Decomposição em fatores primos
 
 
-### Acesse o *notebook* da aula <a href="/mec003_numerosprimos.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec003_numerosprimos.html" target="_black">neste link</a>
 
 ## Curiosidades e materiais relacionados
 
 – (IMPA) [Criptografia, Números Primos e
 Algoritmos](https://impa.br/wp-content/uploads/2017/04/PM_04.pdf)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4o9AWwdvl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Vídeo da aula
