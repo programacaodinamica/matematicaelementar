@@ -12,6 +12,11 @@ nav_order: 3
 
 ### Acesse o *notebook* da aula <a href="/mec003_numerosprimos.html" target="_black">neste link</a>
 
+## Curiosidades e materiais relacionados
+
+– (IMPA) [Criptografia, Números Primos e
+Algoritmos](https://impa.br/wp-content/uploads/2017/04/PM_04.pdf)
+
 
 ## Vídeo da aula
 
