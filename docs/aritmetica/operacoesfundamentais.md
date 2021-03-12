@@ -18,7 +18,7 @@ nav_order: 1
 9.  Divisores
 
 
-### Acesse o *notebook* da aula <a href="/mec001_aritmetica_naturais.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec001_aritmetica_naturais.html" target="_black">neste link</a>
 
 
 ## Vídeo da aula
