@@ -10,9 +10,9 @@ Até o final de março de 2021, apenas 6% dos brasileiros haviam recebido ao men
 Entender porcentagem é essencial para uma interpretação coerente do mundo. No entanto, pelas estatísticas, uma parcela enorme da nossa população é incapaz de se apropriar deste conhecimento e assimilar seu significado. De fato, como visto nas últimas semanas durante as aulas sobre frações, o problema começa ainda mais próximo à base.
 
 Fontes:
-1. https://www.nexojornal.com.br/expresso/2021/03/23/A-pressão-sobre-o-governo-no-Brasil-de-3.251-mortos-num-dia
-2. https://folhadirigida.com.br/mais/noticias/mercado/mulheres-na-tecnologia-como-inclui-las-nesse-mercado
-3. http://portal.inep.gov.br/artigo/-/asset_publisher/B4AQV9zFY7Bv/content/no-ensino-medio-67-dos-estudantes-tem-desempenho-critico-em-matematica/21206
+1. [Nexo Jornal](https://www.nexojornal.com.br/expresso/2021/03/23/A-pressão-sobre-o-governo-no-Brasil-de-3.251-mortos-num-dia)
+2. [Folha Dirigida](https://folhadirigida.com.br/mais/noticias/mercado/mulheres-na-tecnologia-como-inclui-las-nesse-mercado)
+3. [INEP](http://portal.inep.gov.br/artigo/-/asset_publisher/B4AQV9zFY7Bv/content/no-ensino-medio-67-dos-estudantes-tem-desempenho-critico-em-matematica/21206)
 
 ## Conteúdo 
 
