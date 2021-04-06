@@ -19,7 +19,7 @@ Fontes:
 1. Porcentagem como "frações" de base 100
 2. Operações com porcentagem
 
-### [NÃO DISPONÍVEL AINDA] Acesse o *notebook* da aula <a href="/notebooks/mec006_porcentagem.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec006_porcentagem.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
