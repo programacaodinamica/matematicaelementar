@@ -2,6 +2,7 @@
 layout: default
 title: Aplicações da Matemática na Computação
 nav_order: 7777
+has_children: true
 ---
 
 ## Alguns exemplos para você refletir
