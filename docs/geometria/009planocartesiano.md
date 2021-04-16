@@ -22,9 +22,8 @@ Hoje, daremos uma pausa nos estudos da aritmética para caminharmos sobre o Plan
 3. Produto Cartesiano e pares ordenados
 4. O Plano cartesiano como sistema de coordenadas
 5. Abcissa X e ordenada Y
-6. Extra: descrevendo formas no plano
 
-### [Não Disponível Ainda] Acesse o *notebook* da aula <a href="/notebooks/mec009_planocartesiano.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec009_planocartesiano.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
@@ -39,6 +38,8 @@ Você pode acessar, gratuitamente, a gravação da última semana aqui neste sit
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=BR&source=ac&ref=qf_sp_asin_til&ad_type=product_link&tracking_id=hallpaz-20&marketplace=amazon&amp;region=BR&placement=8525429988&asins=8525429988&linkId=f4003a408b269affe5a1fd4d0fbe6131&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
     </iframe>
+
+* [Modelagem 3D da Terra](/docs/aplicacoes/modelagemterra.md)
 
 
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*
