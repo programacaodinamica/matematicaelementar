@@ -15,6 +15,10 @@ nav_order: 4
 
 ### Acesse o *notebook* da aula <a href="/notebooks/mec004_fracoes.html" target="_black">neste link</a>
 
+## Curiosidades e materiais relacionados
+
+* [Na Folha, Viana investiga a origem dos números negativos](https://impa.br/noticias/na-folha-viana-investiga-a-origem-dos-numeros-negativos/)
+
 ## Vídeo da aula
 
 Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
