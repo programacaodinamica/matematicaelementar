@@ -121,7 +121,7 @@ md"""
 🟦 [Canal do Telegram](https://t.me/joinchat/AAAAAFaoNgZTMRvrghpPPA) para receber os vídeos.
 
 ✉️ E-mails:
-– Propostas comerciais: comercial@pgdinamica.com
+– Propostas comerciais: pgdinamica@brunch.ag
 – Demais assuntos: contato@programacaodinamica.com.br
 
 📸 Nos siga no Instagram: [@pgdinamica](https://instagram.com/pgdinamica) | [@kizzy_terra](https://instagram.com/kizzy_terra) | [@hallpaz](https://instagram.com/hallpaz)

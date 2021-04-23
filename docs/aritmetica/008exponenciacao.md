@@ -36,8 +36,8 @@ Você pode acessar, gratuitamente, a gravação da última semana aqui neste sit
 
 
 ✉️ E-mails:
-* Propostas comerciais: [comercial@pgdinamica.com](mailto:comercial@pgdinamica.com)
-* Demais assuntos: [contato@programacaodinamica.com.br](mailto:comercial@pgdinamica.com)
+* Propostas comerciais: [pgdinamica@brunch.ag](mailto:pgdinamica@brunch.ag)
+* Demais assuntos: [contato@programacaodinamica.com.br](mailto:pgdinamica@brunch.ag)
 
 📸 Nos siga no Instagram: [@pgdinamica](https://instagram.com/pgdinamica) | [@kizzy_terra](https://instagram.com/kizzy_terra) | [@hallpaz](https://instagram.com/hallpaz)
 
