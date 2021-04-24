@@ -3,6 +3,8 @@ layout: default
 title: Conjuntos
 parent: Álgebra
 nav_order: 10
+tags: matemática, programação, computação, conjuntos, operações com conjuntos
+ogimage: https://img.youtube.com/vi/j5gNh4T4W0E/default.jpg
 ---
 
 Você é a única pessoa que tem a sua história!
