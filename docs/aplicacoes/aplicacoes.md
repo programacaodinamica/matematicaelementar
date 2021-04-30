@@ -18,10 +18,6 @@ has_children: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ya6g_k5MDzc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Como fazer CHROMA KEY Programando? 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6PMHKXXhRXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 ## Apoie esta iniciativa
 
