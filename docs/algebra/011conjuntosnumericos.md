@@ -1,9 +1,10 @@
-
 ---
 layout: default
 title: Conjuntos Numéricos
 parent: Álgebra
 nav_order: 11
+tags: [matemática, programação, computação, conjuntos, conjuntos numéricos]
+ogimage: https://img.youtube.com/vi/hpTp75K29J0/default.jpg
 ---
 
 > "Mas e se eu fizer uma fogueira, depois jogar dinheiro nela
@@ -29,9 +30,9 @@ Há quem ache que matemática é sobre contar, mas matemática é sobre interpre
 4. Programando exemplos de conjuntos
 
 
-### [NÃO DISPONÍVEL AINDA] Acesse o *notebook* da aula <a href="/notebooks/mec011_conjuntosnumericos.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec010_conjuntos.html" target="_black">neste link</a>
 
-## Vídeo da aula - [Futuro: será transmitida em 30/04/2021]
+## Vídeo da aula
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 

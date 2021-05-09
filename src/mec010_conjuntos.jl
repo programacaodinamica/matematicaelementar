@@ -4,6 +4,9 @@
 using Markdown
 using InteractiveUtils
 
+# ╔═╡ f72575e8-9010-488d-a09d-9a4bc9c95e2b
+using Images
+
 # ╔═╡ bb86d73a-a3ca-11eb-234e-0990b0527d0d
 md""" # Conjuntos
 """
@@ -193,10 +196,10 @@ A - B = {1, 3}
 """
 
 # ╔═╡ 24ca69d9-8b73-4068-9612-749d46df82f8
-begin
-	A = Set(1:100)
-	B = Set(50:2:150)
-end
+A = Set(1:10)
+
+# ╔═╡ bd68a350-cc42-4b9c-a0d4-812549284623
+B = Set(5:2:15)
 
 # ╔═╡ 64a742b6-b243-4c76-a786-d92321782c11
 A ∩ B
@@ -205,10 +208,10 @@ A ∩ B
 A ∪ B
 
 # ╔═╡ 4a6fde66-3599-46c9-8576-0fc9b8a9c60b
-20 ∈ A
+11 ∈ A
 
 # ╔═╡ 2f612662-c488-470d-9dc8-bf6305690d45
-20 ∈ B
+11 ∈ B
 
 # ╔═╡ 55728a01-072c-4fe0-9fb4-a3499d3d3e32
 Set([1, 2, 3]) ⊆ A
@@ -223,8 +226,59 @@ Set([1, 2, 3]) ⊆ A
 # diferença
 setdiff(A, B)
 
+# ╔═╡ e6509b76-d22a-46db-bd82-b330cdf6aa8b
+md"""
+# Conjuntos Numéricos
+"""
+
+# ╔═╡ 3c640779-be19-4cfe-bf55-acadadb5e0aa
+md"""
+O conjunto $\mathbb{N}$ é chamado de conjunto dos números naturais.
+
+$$\mathbb{N}=\{0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ...\}$$
+
+O conjunto $\mathbb{Z}$ é chamado de conjunto dos números inteiros.
+
+$$\mathbb{Z}=\{..., -5, -4, -3, -2, -1, 0, 1, 2, 3, 4, 5,...\}$$
+
+Repare que $\mathbb{N} ⊂ \mathbb{Z}$
+
+O conjunto $\mathbb{Q}$ é chamado de conjunto dos números racionais. Todo elemento de $\mathbb{Q}$ pode ser expresso como uma razão entre dois números inteiros.
+
+$$\mathbb{Q} = \{\frac{m}{n} | m, n \in \mathbb{Z}^*\} \cup \{0\}$$
+
+Repare que $\mathbb{N} ⊂ \mathbb{Z} ⊂ \mathbb{Q}$
+"""
+
+# ╔═╡ 71670957-ef66-474f-b51e-6b1c6be841bc
+load("img/conjuntosn1.png")
+
+# ╔═╡ f3489751-7e5f-4d87-a10d-53101ac0b3ff
+md"""
+O conjunto $\mathbb{I}$ é chamado de conjunto dos números irracionais
+Os elementos de $\mathbb{I}$ não podem ser expressos como uma razão entre dois inteiros
+
+$${π, √2, ℯ} ⊂ \mathbb{I}$$
+"""
+
+
+# ╔═╡ ea11e736-767f-445a-bb66-5dffe93ca568
+load("img/conjuntosn2.png")
+
+# ╔═╡ 41afac80-e6a0-4417-81e8-292b7f967f9c
+md"""
+O conjunto $\mathbb{R}$ é chamado de conjunto dos números reais. É dado pela união dos racionais e irracionais.
+
+Para a maior parte das aplicações a partir de agora, $\mathbb{R}$ será nosso *conjunto universo*.
+
+"""
+
+# ╔═╡ c51c1e70-bba0-4b60-8a2b-fac67235d988
+load("img/conjuntosn3.png")
+
 # ╔═╡ Cell order:
 # ╟─bb86d73a-a3ca-11eb-234e-0990b0527d0d
+# ╟─f72575e8-9010-488d-a09d-9a4bc9c95e2b
 # ╟─74082994-292f-4ff7-953c-449f9ca77124
 # ╟─caefc41f-c271-440b-a98d-0902060b27da
 # ╟─a49946f8-f95b-4848-afa0-9c279c08f7c9
@@ -239,6 +293,7 @@ setdiff(A, B)
 # ╟─0759bc8c-c2d2-48b8-aa8d-986bd589df8f
 # ╟─18930678-7412-4600-bf5e-3961b34418b5
 # ╠═24ca69d9-8b73-4068-9612-749d46df82f8
+# ╠═bd68a350-cc42-4b9c-a0d4-812549284623
 # ╠═64a742b6-b243-4c76-a786-d92321782c11
 # ╠═4366046a-14fa-4f2a-8ab6-ef23588db920
 # ╠═4a6fde66-3599-46c9-8576-0fc9b8a9c60b
@@ -247,3 +302,10 @@ setdiff(A, B)
 # ╠═8fef7e6c-df1b-487c-bdc3-2be21516ae5f
 # ╠═a4a01f15-6d93-4cd5-b613-dbe885f491cd
 # ╠═ce0d8100-3557-4843-b286-efd5dd76e609
+# ╟─e6509b76-d22a-46db-bd82-b330cdf6aa8b
+# ╟─3c640779-be19-4cfe-bf55-acadadb5e0aa
+# ╟─71670957-ef66-474f-b51e-6b1c6be841bc
+# ╟─f3489751-7e5f-4d87-a10d-53101ac0b3ff
+# ╟─ea11e736-767f-445a-bb66-5dffe93ca568
+# ╟─41afac80-e6a0-4417-81e8-292b7f967f9c
+# ╟─c51c1e70-bba0-4b60-8a2b-fac67235d988
