@@ -13,10 +13,9 @@ ogimage: https://img.youtube.com/vi/mpJjwuSD3jM/default.jpg
 
 1. Intuição sobre funções
 2. Definição de função
-3. Função Linear
-4. Função Afim
+3. Exemplos de relações e funções
 
-### [Não disponível ainda]Acesse o *notebook* da aula <a href="/notebooks/mec013_introfuncoes.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec013_introfuncoes.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
