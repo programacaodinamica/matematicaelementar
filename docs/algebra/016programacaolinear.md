@@ -8,20 +8,22 @@ ogimage: https://img.youtube.com/vi/mpJjwuSD3jM/default.jpg
 ---
 
 
-
 ## Conteúdo 
 
 **Programação Linear**
 
-
-
-### **[Não Disponível ainda]** Acesse o *notebook* da aula <a href="/notebooks/mec016_programacaolinear.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec016_programacaolinear.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
+#### Parte 1 - 25 de junho de 2021
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qE_xazuvc2c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Parte 2 - 10 de julho de 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FpvDIyhABFI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Curiosidades e materiais relacionados
 

@@ -6,7 +6,7 @@ nav_order: 0
 
 # Matemática Elementar para Computação
 
-Aulas AO VIVO toda sexta-feira às 18:00h no canal Programação Dinâmica ([@pgdinamica na Twitch](https://twitch.tv/pgdinamica))!
+Aulas AO VIVO, quinzenalmente, sextas-feiras às 18:00h no canal Programação Dinâmica ([@pgdinamica na Twitch](https://twitch.tv/pgdinamica))!
 
 O medo da matemática impõe limitações ao seu crescimento profissional e consequências graves para o país. Até quando vamos continuar produzindo software de baixa complexidade e importando alta tecnologia?
 
