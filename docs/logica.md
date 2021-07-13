@@ -24,6 +24,8 @@ Se você acha este trabalho relevante, [considere apoiar o nosso canal como memb
 
 #### ▶️ [Gravação da aula de 22 fev de 2021](https://youtu.be/F7IvK4r0Xds)
 
+<br/>
+-------
 
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*
 
