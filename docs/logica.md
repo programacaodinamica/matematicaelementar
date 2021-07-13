@@ -22,7 +22,7 @@ nav_order: 1
 Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7IvK4r0Xds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### ▶️ [Gravação da aula de 22 fev de 2021](https://youtu.be/F7IvK4r0Xds)
 
 
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*
