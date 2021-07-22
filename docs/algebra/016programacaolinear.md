@@ -28,8 +28,6 @@ Você pode acessar, gratuitamente, a gravação da última semana aqui neste sit
 ## Curiosidades e materiais relacionados
 
 
-
-
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*
 
 

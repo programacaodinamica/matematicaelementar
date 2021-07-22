@@ -37,8 +37,8 @@ Hoje, vamos estudar sobre Conjuntos às 18:00h na Twitch no canal Programação 
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gNh4T4W0E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### ▶️ [Gravação da aula de 23 abr de 2021](https://youtu.be/j5gNh4T4W0E)
+-------
 
 ## Curiosidades e materiais relacionados
 

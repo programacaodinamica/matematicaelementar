@@ -32,8 +32,8 @@ E aí, você faz parte do seleto grupo nessa relação?
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dTMiDwGfi8Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### ▶️ [Gravação da aula de 7 mai de 2021](https://youtu.be/dTMiDwGfi8Y)
+-------
 
 ## Curiosidades e materiais relacionados
 
