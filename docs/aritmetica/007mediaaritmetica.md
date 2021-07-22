@@ -28,9 +28,10 @@ Fontes:
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
+#### ▶️ [Gravação da aula de 2 abr de 2021](https://youtu.be/Z7DoWOObMa8)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7DoWOObMa8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br/>
+-------
 
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*
 

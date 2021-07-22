@@ -25,7 +25,6 @@ Se você acha este trabalho relevante, [considere apoiar o nosso canal como memb
 
 #### ▶️ [Gravação da aula de 12 mar de 2021](https://youtu.be/npOPopVpPyo)
 
-<br/>
 -------
 
 ## Curiosidades e materiais relacionados
