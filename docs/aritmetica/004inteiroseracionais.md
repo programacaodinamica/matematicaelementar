@@ -23,8 +23,10 @@ nav_order: 4
 
 Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
+#### ▶️ [Gravação da aula de 12 mar de 2021](https://youtu.be/npOPopVpPyo)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/npOPopVpPyo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/>
+-------
 
 ## Curiosidades e materiais relacionados
 
