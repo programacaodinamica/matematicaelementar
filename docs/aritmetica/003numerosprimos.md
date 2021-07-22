@@ -21,6 +21,7 @@ nav_order: 3
 – (IMPA) [Criptografia, Números Primos e
 Algoritmos](https://impa.br/wp-content/uploads/2017/04/PM_04.pdf)
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q4o9AWwdvl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -28,10 +29,10 @@ Algoritmos](https://impa.br/wp-content/uploads/2017/04/PM_04.pdf)
 
 Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
-🔴 Esta aula está aberta no Youtube, você pode assistí-la abaixo.
+#### ▶️ [Gravação da aula de 5 mar de 2021](https://youtu.be/-NmULeC26QY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-NmULeC26QY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br/>
+-------
 
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*
 
