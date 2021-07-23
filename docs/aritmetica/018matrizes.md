@@ -14,10 +14,6 @@ nav_order: 18
 
 ### Acesse o *notebook* da aula <a href="/notebooks/mec018_matrizes.html" target="_black">neste link</a>
 
-## Curiosidades e materiais relacionados
-
-– Sugestões?
-
 ## Vídeo da aula
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
@@ -26,6 +22,15 @@ Você pode acessar, gratuitamente, a gravação da última semana aqui neste sit
 
 <br/>
 -------
+
+## Curiosidades e materiais relacionados
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O5JoebBvxbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rk5KM9rfWs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ectPL_XQFGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*
 
