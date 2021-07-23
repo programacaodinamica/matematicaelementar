@@ -22,7 +22,6 @@ Você pode acessar, gratuitamente, a gravação da última semana aqui neste sit
 
 #### ▶️ [Gravação da aula de 19 mar de 2021](https://youtu.be/Ia__QQlvO5g)
 
-<br/>
 -------
 
 ## Curiosidades e materiais relacionados
