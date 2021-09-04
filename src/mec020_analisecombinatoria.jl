@@ -55,6 +55,14 @@ Quantidade total de sequências distintas:
 $$\frac{m!}{(m-r)!}$$
 """
 
+# ╔═╡ 287c078a-2ea9-4927-b2e1-b64d5fa63ced
+md"""
+
+###### Quantos divisores positivos o número 23456 tem?
+
+![](https://raw.githubusercontent.com/programacaodinamica/matematicaelementar/main/src/img/combinatoria1.png)
+"""
+
 # ╔═╡ a28071f2-fac6-4543-b006-4110d04e6615
 md"""
 
@@ -67,7 +75,7 @@ $$m!$$
 
 **Exemplo**:
 
-![]()
+![](https://raw.githubusercontent.com/programacaodinamica/matematicaelementar/main/src/img/combinatoria0.png)
 
 """
 
@@ -78,19 +86,7 @@ md"""
 
 Seja $M$ um conjunto com $m$ elementos, isto é, $M = {a_1, a_2, ..., a_m}$. Chamamos de combinações dos $m$ elementos, tomados $r$ a $r$, aos subconjuntos de $M$ constituídos de r elementos.
 
-![]()
-"""
-
-# ╔═╡ 9dd2a13c-462f-48fd-8c76-5caf80774f67
-md"""
-
-###### Quantas cores é possível representar com 24 bits?
-"""
-
-# ╔═╡ b07ff640-3bb3-40b1-9f10-199b09edbf0b
-md"""
-
-###### Quantos divisores positivos o número 23456 tem?
+![](https://raw.githubusercontent.com/programacaodinamica/matematicaelementar/main/src/img/combinatoria2.png)
 """
 
 # ╔═╡ ff498eb4-b943-4629-ad49-a8a6622ca573
@@ -106,8 +102,7 @@ md"""
 # ╟─b75c5029-48e1-49ff-805d-5810fec87040
 # ╟─ea4cfe4a-d927-4f96-929c-165f4a9d9c19
 # ╟─85b0ef0f-dcd5-4198-8e16-98791a54c3f0
-# ╠═a28071f2-fac6-4543-b006-4110d04e6615
-# ╠═a532231b-0635-4f1f-b224-b29c9cdeab51
-# ╟─9dd2a13c-462f-48fd-8c76-5caf80774f67
-# ╟─b07ff640-3bb3-40b1-9f10-199b09edbf0b
+# ╟─287c078a-2ea9-4927-b2e1-b64d5fa63ced
+# ╟─a28071f2-fac6-4543-b006-4110d04e6615
+# ╟─a532231b-0635-4f1f-b224-b29c9cdeab51
 # ╟─ff498eb4-b943-4629-ad49-a8a6622ca573
