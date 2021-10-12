@@ -1,36 +1,31 @@
 ---
 layout: default
-title: Operações Fundamentais
-parent: Aritmética
-nav_order: 1
+title: Bases Numéricas
+parent: Conjuntos e Operações Básicas
+nav_order: 2
 ---
 
 ## Conteúdo
 
-1.  Números naturais
-2.  Adição
-3.  Subtração
-4.  Multiplicação
-5.  Divisão
-6.  Sucessor
-7.  Antecessor
-8.  Multiplos
-9.  Divisores
+1.  O que é uma base numérica
+2.  Decimal
+3.  Binário
+4.  Hexadecimal
+5.  Conversão de outra base para decimal
+6.  Conversão de decimal para outra base
 
 
-### Acesse o *notebook* da aula <a href="/notebooks/mec001_aritmetica_naturais.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec002_basesnumericas.html" target="_black">neste link</a>
 
 
 ## Vídeo da aula
 
 Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
+🔴 Esta aula está aberta no Youtube, você pode assistí-la abaixo.
 
-#### ▶️ [Gravação da aula de 26 fev de 2021](https://youtu.be/P4Jy2ZMyeT0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6cvnhNJVsaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-<br/>
--------
 
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*
 

@@ -1,24 +1,24 @@
 ---
 layout: default
-title: Introdução a Matrizes e Aplicações
-parent: Aritmética
-nav_order: 18
+title: Introdução à Probabilidade
+parent: Combinatória e Probabilidade
+nav_order: 23
 ---
 
 ## Conteúdo 
 
-1. O que é uma matriz.
-2. Operações com matrizes (adição, subtração, multiplicação, transposição)
-3. Apliações em imagens
-4. Cálculo de comprimento e rotações de formas no plano 2D
+1. Experimento aleatório
+2. Espaço Amostral
+3. Evento aleatório
+4. Probabilidade de um evento aleatório
 
-### Acesse o *notebook* da aula <a href="/notebooks/mec018_matrizes.html" target="_black">neste link</a>
+<!-- ### Acesse o *notebook* da aula <a href="/notebooks/mec018_matrizes.html" target="_black">neste link</a> -->
 
 ## Vídeo da aula
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
-#### ▶️ [Gravação da aula de 23 jul de 2021](https://youtu.be/mOVrh4OSN-A)
+#### ▶️ [Gravação da aula de 8 de outubro de 2021](https://youtu.be/e3A1PByQimQ)
 
 <br/>
 -------

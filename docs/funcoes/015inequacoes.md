@@ -1,28 +1,29 @@
 ---
 layout: default
-title: Introdução a Funções
-parent: Álgebra
-nav_order: 13
-tags: [matemática, programação, computação, relações, conjuntos, produto cartesiano]
-ogimage: https://img.youtube.com/vi/mpJjwuSD3jM/default.jpg
+title: Inequações do 1º grau
+parent: Funções
+nav_order: 15
+tags: [matemática, programação, computação, relações, funções, sinal de funções, produto cartesiano]
+ogimage: https://img.youtube.com/vi/aoWJnyChWeQ/default.jpg
 ---
-
 
 
 ## Conteúdo 
 
-1. Intuição sobre funções
-2. Definição de função
-3. Exemplos de relações e funções
+**Sinal de funções e Inequações do 1º grau**
 
-### Acesse o *notebook* da aula <a href="/notebooks/mec013_introfuncoes.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec015_inequacoes.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
+#### Sinal de funções do Primeiro Grau
+#### ▶️ [Gravação da aula de 28 mai de 2021](https://youtu.be/aoWJnyChWeQ)
 
-#### ▶️ [Gravação da aula de 14 mai de 2021](https://youtu.be/mpJjwuSD3jM)
+#### Inequações do Primeiro Grau
+#### ▶️ [Gravação da aula de 28 mai de 2021](https://youtu.be/tVi6iMWYwdQ)
+
 -------
 
 ## Curiosidades e materiais relacionados

@@ -1,35 +1,33 @@
 ---
 layout: default
-title: Números Primos
-parent: Aritmética
-nav_order: 3
+title: Operações Fundamentais
+parent: Conjuntos e Operações Básicas
+nav_order: 1
 ---
 
-## Conteúdo 
+## Conteúdo
 
-1. Fatores de uma multiplicação
-2. Revisão sobre divisores
-3. O que é um número primo
-4. Como determinar se um número é primo
-5. Decomposição em fatores primos
-
-
-### Acesse o *notebook* da aula <a href="/notebooks/mec003_numerosprimos.html" target="_black">neste link</a>
-
-## Curiosidades e materiais relacionados
-
-– (IMPA) [Criptografia, Números Primos e
-Algoritmos](https://impa.br/wp-content/uploads/2017/04/PM_04.pdf)
+1.  Números naturais
+2.  Adição
+3.  Subtração
+4.  Multiplicação
+5.  Divisão
+6.  Sucessor
+7.  Antecessor
+8.  Multiplos
+9.  Divisores
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4o9AWwdvl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Acesse o *notebook* da aula <a href="/notebooks/mec001_aritmetica_naturais.html" target="_black">neste link</a>
 
 
 ## Vídeo da aula
 
 Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
-#### ▶️ [Gravação da aula de 5 mar de 2021](https://youtu.be/-NmULeC26QY)
+
+#### ▶️ [Gravação da aula de 26 fev de 2021](https://youtu.be/P4Jy2ZMyeT0)
+
 
 <br/>
 -------

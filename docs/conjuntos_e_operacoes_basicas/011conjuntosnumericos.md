@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Conjuntos Numéricos
-parent: Álgebra
+parent: Conjuntos e Operações Básicas
 nav_order: 11
 tags: [matemática, programação, computação, conjuntos, conjuntos numéricos]
 ogimage: https://img.youtube.com/vi/hpTp75K29J0/default.jpg

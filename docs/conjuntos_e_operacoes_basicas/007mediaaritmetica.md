@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Média Aritmética, Ponderada e Móvel
-parent: Aritmética
+parent: Conjuntos e Operações Básicas
 nav_order: 7
 ---
 

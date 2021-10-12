@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Porcentagem
-parent: Aritmética
+parent: Conjuntos e Operações Básicas
 nav_order: 6
 ---
 

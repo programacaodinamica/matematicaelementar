@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Relações
-parent: Álgebra
+parent: Funções
 nav_order: 12
 tags: [matemática, programação, computação, relações, conjuntos, produto cartesiano]
 ogimage: https://img.youtube.com/vi/dTMiDwGfi8Y/default.jpg

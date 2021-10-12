@@ -1,29 +1,26 @@
 ---
 layout: default
-title: Números Inteiros, Frações e Números Racionais
-parent: Aritmética
-nav_order: 4
+title: Aritmética com Frações
+parent: Conjuntos e Operações Básicas
+nav_order: 5
 ---
 
 ## Conteúdo 
 
-1. O que é o conjunto dos números inteiros?
-2. O que é uma fração?
-3. Como comparar frações?
-4. Números decimais
-5. O que é o conjunto dos números racionais?
+1. Simplificação de Frações
+2. Soma de frações
+3. Subtração de Frações
+4. Multiplicação de Frações
+5. O inverso multiplicativo no conjunto dos números Racionais
+6. Divisão de Frações
 
-### Acesse o *notebook* da aula <a href="/notebooks/mec004_fracoes.html" target="_black">neste link</a>
-
-## Curiosidades e materiais relacionados
-
-* [Na Folha, Viana investiga a origem dos números negativos](https://impa.br/noticias/na-folha-viana-investiga-a-origem-dos-numeros-negativos/)
+### [NÃO DISPONÍVEL AINDA] Acesse o *notebook* da aula <a href="/notebooks/mec005_aritmeticafracoes.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
-Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
+Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso a todas as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
-#### ▶️ [Gravação da aula de 12 mar de 2021](https://youtu.be/npOPopVpPyo)
+#### ▶️ [Gravação da aula de 19 mar de 2021](https://youtu.be/Ia__QQlvO5g)
 
 -------
 
@@ -37,7 +34,7 @@ Se você acha este trabalho relevante, [considere apoiar o nosso canal como memb
 
 ✉️ E-mails:
 * Propostas comerciais: [pgdinamica@brunch.ag](mailto:pgdinamica@brunch.ag)
-* Demais assuntos: [contato@programacaodinamica.com.br](mailto:contato@programacaodinamica.com.br)
+* Demais assuntos: [contato@programacaodinamica.com.br](mailto:pgdinamica@brunch.ag)
 
 📸 Nos siga no Instagram: [@pgdinamica](https://instagram.com/pgdinamica) | [@kizzy_terra](https://instagram.com/kizzy_terra) | [@hallpaz](https://instagram.com/hallpaz)
 

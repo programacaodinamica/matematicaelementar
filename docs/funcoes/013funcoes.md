@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Funções do 1º grau
-parent: Álgebra
-nav_order: 14
+title: Introdução a Funções
+parent: Funções
+nav_order: 13
 tags: [matemática, programação, computação, relações, conjuntos, produto cartesiano]
 ogimage: https://img.youtube.com/vi/mpJjwuSD3jM/default.jpg
 ---
@@ -11,20 +11,18 @@ ogimage: https://img.youtube.com/vi/mpJjwuSD3jM/default.jpg
 
 ## Conteúdo 
 
-**Funções do 1º grau**
-1. Função Constante
-2. Função Linear
-3. Função Afim
+1. Intuição sobre funções
+2. Definição de função
+3. Exemplos de relações e funções
 
-
-### **[Não Disponível ainda]** Acesse o *notebook* da aula <a href="/notebooks/mec014_funcoeslineares.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec013_introfuncoes.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
 
-#### ▶️ [Gravação da aula de 21 mai de 2021](https://youtu.be/elUdOJJX1Yo)
+#### ▶️ [Gravação da aula de 14 mai de 2021](https://youtu.be/mpJjwuSD3jM)
 -------
 
 ## Curiosidades e materiais relacionados

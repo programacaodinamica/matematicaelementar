@@ -1,31 +1,38 @@
 ---
 layout: default
-title: Bases Numéricas
-parent: Aritmética
-nav_order: 2
+title: Números Primos
+parent: Conjuntos e Operações Básicas
+nav_order: 3
 ---
 
-## Conteúdo
+## Conteúdo 
 
-1.  O que é uma base numérica
-2.  Decimal
-3.  Binário
-4.  Hexadecimal
-5.  Conversão de outra base para decimal
-6.  Conversão de decimal para outra base
+1. Fatores de uma multiplicação
+2. Revisão sobre divisores
+3. O que é um número primo
+4. Como determinar se um número é primo
+5. Decomposição em fatores primos
 
 
-### Acesse o *notebook* da aula <a href="/notebooks/mec002_basesnumericas.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec003_numerosprimos.html" target="_black">neste link</a>
+
+## Curiosidades e materiais relacionados
+
+– (IMPA) [Criptografia, Números Primos e
+Algoritmos](https://impa.br/wp-content/uploads/2017/04/PM_04.pdf)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4o9AWwdvl4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Vídeo da aula
 
 Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
-🔴 Esta aula está aberta no Youtube, você pode assistí-la abaixo.
+#### ▶️ [Gravação da aula de 5 mar de 2021](https://youtu.be/-NmULeC26QY)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6cvnhNJVsaI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br/>
+-------
 
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*
 

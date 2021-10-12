@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Potenciação e Radiciação
-parent: Aritmética
+parent: Conjuntos e Operações Básicas
 nav_order: 8
 ---
 
