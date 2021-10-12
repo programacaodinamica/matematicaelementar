@@ -27,7 +27,7 @@ Algoritmos](https://impa.br/wp-content/uploads/2017/04/PM_04.pdf)
 
 ## Vídeo da aula
 
-Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
+Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
 #### ▶️ [Gravação da aula de 5 mar de 2021](https://youtu.be/-NmULeC26QY)
 

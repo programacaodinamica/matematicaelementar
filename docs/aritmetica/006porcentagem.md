@@ -23,7 +23,7 @@ Fontes:
 
 ## Vídeo da aula
 
-Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
+Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
 #### ▶️ [Gravação da aula de 26 mar de 2021](https://youtu.be/yfkWatbh6pg)
 

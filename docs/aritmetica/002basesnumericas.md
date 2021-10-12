@@ -20,7 +20,7 @@ nav_order: 2
 
 ## Vídeo da aula
 
-Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
+Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
 🔴 Esta aula está aberta no Youtube, você pode assistí-la abaixo.
 

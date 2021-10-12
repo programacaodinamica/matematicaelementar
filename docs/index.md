@@ -25,7 +25,7 @@ Para ajudar a disseminar este conhecimento, decidi criar um projeto novo chamado
 Uma inspiração para este projeto é a série [Fundamentos de Matemática Elementar](https://amzn.to/3bqrhGt) do autor Gelson Iezzi e colaboradores. Assim, pretendemos estudar conjuntos, funções, trigonometria, sequências, matrizes, sistemas lineares, combinatória, probabilidade e geometria analítica. Desta forma, cobriremos tópicos importantes ao nível de um “ensino médio de excelência”, base do que permitiu [a mim](https://youtu.be/7n5ZQMWkdQ8) e [à Kizzy](https://youtu.be/iuri3vpmpx4) ingressarmos no Instituto Militar de Engenharia.
 
 -------
-Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
+Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
 Se você não tem como contribuir financeiramente no momento, não tem problema, venha aprender conosco ao vivo na Twitch e nos ajude a espalhar esta mensagem para mais pessoas interagindo com nossos conteúdos!
 

@@ -21,7 +21,7 @@ has_children: true
 
 ## Apoie esta iniciativa
 
-Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
+Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
 
 🟣 Canal na Twitch para lives: [https://www.twitch.tv/pgdinamica](https://www.twitch.tv/pgdinamica) | *Matemática Elementar para Computação - sextas às 18:00h*

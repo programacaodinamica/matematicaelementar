@@ -16,7 +16,7 @@ ogimage: https://img.youtube.com/vi/mpJjwuSD3jM/default.jpg
 
 ## Vídeo da aula
 
-Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
+Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
 
 #### Parte 1 - 25 de junho de 2021
 #### ▶️ [Gravação da aula de 25 jun de 2021](https://youtu.be/qE_xazuvc2c)
