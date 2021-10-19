@@ -12,7 +12,7 @@ nav_order: 18
 3. Apliações em imagens
 4. Cálculo de comprimento e rotações de formas no plano 2D
 
-### Acesse o *notebook* da aula <a href="/notebooks/mec018_matrizes.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec019_matrizes.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
