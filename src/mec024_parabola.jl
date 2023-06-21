@@ -37,9 +37,6 @@ Se:
 Podemos visualizar o gráfico da função:
 """
 
-# ╔═╡ fb89b9d2-f023-4efa-8522-02bb7b403b4f
-Δ = b^2 - 4*a*(c + 30)
-
 # ╔═╡ 5595feb3-e4eb-4229-a0e1-9d2d1439313c
 f(x) = a*x^2 + b*x + c
 
@@ -1146,7 +1143,6 @@ version = "1.4.1+0"
 # ╠═9f4db60b-4e72-4477-bb8b-6cbb2b9bc6a8
 # ╟─ea3c3b28-0567-11ee-208d-0168f25513a2
 # ╟─58ca2d20-0416-4fd9-8f33-de25d9bc6082
-# ╠═fb89b9d2-f023-4efa-8522-02bb7b403b4f
 # ╠═5595feb3-e4eb-4229-a0e1-9d2d1439313c
 # ╟─c3a1c62e-2593-4039-bef6-26c64edcfcd5
 # ╠═21498e44-d437-467e-8d51-7c619a0682a2
