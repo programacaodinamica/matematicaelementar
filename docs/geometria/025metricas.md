@@ -18,8 +18,6 @@ ogimage: https://img.youtube.com/vi/py7YTtZSe54/default.jpg
 
 ### Acesse o *notebook* da aula <a href="/notebooks/mec025_metricas.html" target="_black">neste link</a>
 
-*Notebook em falta, me cobrem atualizar depois!*
-
 ## Vídeo da aula
 
 Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
