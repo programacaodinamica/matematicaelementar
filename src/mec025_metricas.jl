@@ -8,8 +8,7 @@ using InteractiveUtils
 using Plots
 
 # ╔═╡ 3ba6f41d-8c4d-47c3-9eea-37ab80ced1bc
-md"""
-# Métricas e Distância entre Pontos
+md"""# Métricas e Distância entre Pontos
 
 Distância é uma função que tem certas propriedades:
 
