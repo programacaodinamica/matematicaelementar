@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Regressão Linear por Mínimos Quadrados
-parent: Funções
+parent: Aplicações da Matemática na Computação
 nav_order: 26
 tags: [matemática, programação, computação, relações, conjuntos, produto cartesiano, parábola]
 ogimage: https://img.youtube.com/vi/LrrvMUN8Juc/default.jpg

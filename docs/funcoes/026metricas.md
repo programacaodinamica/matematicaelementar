@@ -2,7 +2,7 @@
 layout: default
 title: Métricas e distância de ponto a ponto
 parent: Funções
-nav_order: 25
+nav_order: 26
 tags: [matemática, programação, computação, relações, conjuntos, produto cartesiano, distância, métrica]
 ogimage: https://img.youtube.com/vi/282oYgJNRVg/default.jpg
 ---

@@ -9,7 +9,7 @@ nav_order: 18
 
 1. O que é uma matriz.
 2. Operações com matrizes (adição, subtração, multiplicação, transposição)
-3. Apliações em imagens
+3. Aplicações em imagens
 4. Cálculo de comprimento e rotações de formas no plano 2D
 
 ### Acesse o *notebook* da aula <a href="/notebooks/mec019_matrizes.html" target="_black">neste link</a>

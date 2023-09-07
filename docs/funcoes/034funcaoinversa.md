@@ -1,30 +1,34 @@
 ---
 layout: default
-title: polinômios
+title: Função Inversa
 parent: Funções
-nav_order: 27
-tags: [matemática, programação, computação, relações, conjuntos, funções, polinômios, monômios]
-ogimage: https://img.youtube.com/vi/gjOIXiE66_g/default.jpg
+nav_order: 34
+tags: [matemática, programação, computação, relações, conjuntos, funções, inversa]
+ogimage: https://img.youtube.com/vi/9-FCbpkPlzM/default.jpg
 ---
 
 ## Conteúdo 
 
-**Polinômios - Definição e Conceitos Básicos**
-1. Definição de polinômio
-2. Grau de um polinômio
-3. Adição de polinômios
-4. Multiplicação de polinômios
-5. Subtração de polinômios
-6. Divisão entre polinômios
+Após estudar a classificação de funções em injetora, sobrejetora ou bijetora, veremos como este conhecimento se relaciona com um conceito extremamente importante: funções inversas. Estudaremos o que é a inversa de uma função, em que casos faz sentido definirmos uma inversa e alguns exemplos importantes de funções e suas inversas.
 
-### Acesse o *notebook* da aula <a href="/notebooks/mec027_polinomios.html" target="_black">neste link</a>
+
+**Função Inversa**
+1. Revisão de Relações
+2. Relação Inversa
+3. Função Inversa
+4. Condições para existência da função inversa
+5. Exemplos de funções e suas inversas
+
+### Acesse o *notebook* da aula <a href="/notebooks/mec034_funcaoinversa.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
-Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. 
+Você pode acessar, gratuitamente, a gravação da última semana aqui neste site. Se você acha este trabalho relevante, [considere apoiar o nosso canal como membro](https://youtube.com/programacaodinamica/join) e tenha acesso a *todas* as gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**. Você também pode [se tornar SUB na Twitch](https://twitch.tv/hallpaz) para ter acesso ao conteúdo.
 
 
-#### ▶️ [Gravação da aula de 05 jul de 2023](https://www.youtube.com/live/6SnBPGaeoRY?feature=share)
+#### ▶️ [Gravação da Twitch de 01 set de 2023](https://www.twitch.tv/videos/1914556894)
+
+#### ▶️ [Gravação do Youtube de 01 set de 2023](https://youtube.com/live/wj39whj5s9s)
 
 -------
 
