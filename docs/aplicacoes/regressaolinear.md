@@ -15,7 +15,7 @@ ogimage: https://img.youtube.com/vi/LrrvMUN8Juc/default.jpg
 2. Implementando a regressão linear em Julia
 
 
-### Acesse o *notebook* da aula <a href="/notebooks/mec026_regressaolinear.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec027_regressaolinear.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 

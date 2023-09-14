@@ -17,7 +17,7 @@ ogimage: https://img.youtube.com/vi/282oYgJNRVg/default.jpg
 4. Bolas unitárias no plano sob diferentes métricas
 
 
-### Acesse o *notebook* da aula <a href="/notebooks/mec025_metricas.html" target="_black">neste link</a>
+### Acesse o *notebook* da aula <a href="/notebooks/mec026_metricas.html" target="_black">neste link</a>
 
 ## Vídeo da aula
 
