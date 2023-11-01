@@ -6,7 +6,7 @@ nav_order: 0
 
 # Matemática Elementar para Computação
 
-Aulas AO VIVO, semanalmente, quartas-feiras às 19:00h no canal Hallison Paz - Matemática e Programação ([@hallpaz na Twitch](https://twitch.tv/hallpaz))!
+Aulas AO VIVO, quinzenalmente, quartas-feiras às 19:00h no canal Hallison Paz - Matemática e Programação ([@hallpaz na Twitch](https://twitch.tv/hallpaz))!
 
 O medo da matemática impõe limitações ao seu crescimento profissional e consequências graves para o país. Até quando vamos continuar produzindo software de baixa complexidade e importando alta tecnologia?
 
@@ -26,6 +26,8 @@ Uma inspiração para este projeto é a série [Fundamentos de Matemática Eleme
 
 -------
 Se você acha este trabalho relevante, [considere apoiar o canal Programação Dinâmica como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
+
+Alternativamente, você pode se tornar SUB do meu canal pessoal na Twitch (@hallpaz) e ter acesso aos vídeos por lá.
 
 Se você não tem como contribuir financeiramente no momento, não tem problema, venha aprender conosco ao vivo na Twitch e nos ajude a espalhar esta mensagem para mais pessoas interagindo com nossos conteúdos!
 
