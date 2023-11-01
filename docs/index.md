@@ -27,7 +27,7 @@ Uma inspiração para este projeto é a série [Fundamentos de Matemática Eleme
 -------
 Se você acha este trabalho relevante, [considere apoiar o canal Programação Dinâmica como membro](https://youtube.com/programacaodinamica/join) e tenha acesso às gravações das aulas ao vivo nas categorias **ESPRESSO** e **CAPUCCINO**.
 
-Alternativamente, você pode se tornar SUB do meu canal pessoal na Twitch (@hallpaz) e ter acesso aos vídeos por lá.
+Alternativamente, você pode se tornar SUB do meu canal pessoal na Twitch ([@hallpaz](https://www.twitch.tv/hallpaz)) e ter acesso aos vídeos por lá.
 
 Se você não tem como contribuir financeiramente no momento, não tem problema, venha aprender conosco ao vivo na Twitch e nos ajude a espalhar esta mensagem para mais pessoas interagindo com nossos conteúdos!
 
